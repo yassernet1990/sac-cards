@@ -1,0 +1,1 @@
+// Saudi image is embedded by remaining.js.
