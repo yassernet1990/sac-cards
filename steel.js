@@ -1,0 +1,1 @@
+// Steel image is embedded by remaining.js.
